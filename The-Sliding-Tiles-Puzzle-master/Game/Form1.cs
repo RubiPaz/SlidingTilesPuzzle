@@ -143,7 +143,7 @@ namespace Game
                 }
                 catch (Exception exc) { }
             }
-            if (count == 8)
+            if (count == 9)
                 label1.Text = "Status: You Win !";
         }
 
