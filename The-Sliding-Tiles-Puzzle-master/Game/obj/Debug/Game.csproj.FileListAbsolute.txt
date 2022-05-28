@@ -1,0 +1,27 @@
+c:\users\kedar khetia\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Kedar Khetia\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe
+C:\Users\Kedar Khetia\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.pdb
+C:\Users\Kedar Khetia\documents\visual studio 2015\Projects\Game\Game\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kedar Khetia\documents\visual studio 2015\Projects\Game\Game\bin\Debug\MetroFramework.dll
+C:\Users\Kedar Khetia\documents\visual studio 2015\Projects\Game\Game\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kedar Khetia\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Kedar Khetia\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\Kedar Khetia\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Kedar Khetia\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\Kedar Khetia\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.exe
+C:\Users\Kedar Khetia\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.pdb
+C:\Users\Akshay\Desktop\kedar\Dnet\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Akshay\Desktop\kedar\Dnet\Game\Game\obj\Debug\Game.exe
+C:\Users\Akshay\Desktop\kedar\Dnet\Game\Game\obj\Debug\Game.pdb
+C:\Users\roven\OneDrive\שולחן העבודה\The-Sliding-Tiles-Puzzle-master\Game\bin\Debug\Game.exe.config
+C:\Users\roven\OneDrive\שולחן העבודה\The-Sliding-Tiles-Puzzle-master\Game\bin\Debug\Game.exe
+C:\Users\roven\OneDrive\שולחן העבודה\The-Sliding-Tiles-Puzzle-master\Game\bin\Debug\Game.pdb
+C:\Users\roven\OneDrive\שולחן העבודה\The-Sliding-Tiles-Puzzle-master\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\roven\OneDrive\שולחן העבודה\The-Sliding-Tiles-Puzzle-master\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\roven\OneDrive\שולחן העבודה\The-Sliding-Tiles-Puzzle-master\Game\obj\Debug\Game.Form1.resources
+C:\Users\roven\OneDrive\שולחן העבודה\The-Sliding-Tiles-Puzzle-master\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\roven\OneDrive\שולחן העבודה\The-Sliding-Tiles-Puzzle-master\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\roven\OneDrive\שולחן העבודה\The-Sliding-Tiles-Puzzle-master\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\roven\OneDrive\שולחן העבודה\The-Sliding-Tiles-Puzzle-master\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\roven\OneDrive\שולחן העבודה\The-Sliding-Tiles-Puzzle-master\Game\obj\Debug\Game.exe
+C:\Users\roven\OneDrive\שולחן העבודה\The-Sliding-Tiles-Puzzle-master\Game\obj\Debug\Game.pdb
